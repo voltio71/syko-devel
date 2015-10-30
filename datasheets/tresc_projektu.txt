@@ -1,0 +1,30 @@
+Zadanie
+
+Projekt SYKO 2015 Zima
+Grupa nr. 7
+
+Procesor MSP430
+
+Zaimplementuj i dokładnie przetestuj, podany zestaw instrukcji:
+
+* XOR
+* PUSH
+* JZ 
+* JNC
+* BIT
+* RETI
+* MOV
+* JNZ
+* JMP
+* ADD
+
+Proszę pamiętać, iż wiele z podanych instrukcji może pracować w wielu trybach adresowania - należy wszystkie takie warianty uwzględnić w implementacji.
+
+Dodatkowe informacje na stronie projektu:
+
+http://cygnus.tele.pw.edu.pl/olek/doc/syko/projekt.pdf
+
+lub stronie przedmiotu:
+
+http://cygnus.tele.pw.edu.pl/olek/doc/syko/index.html
+
